@@ -131,6 +131,13 @@ $messages['de'] = array(
 	'googleadsense-desc' => 'Ermöglicht das Einfügen von [http://www.google.com/adsense „Google AdSense“-Anzeigen] in der Seitenleiste',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'googleadsense-desc' => 'çuwade kosmi re [http://www.google.com/adsense Google AdSense] dekeno de',
+);
+
 /** Lower Sorbian (Dolnoserbski)
  * @author Michawiki
  */
@@ -335,6 +342,13 @@ $messages['ms'] = array(
 	'googleadsense-desc' => "Leletakkan [http://www.google.com/adsense Google AdSense] dalam ''sidebar''",
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Jon Harald Søby
+ */
+$messages['nb'] = array(
+	'googleadsense-desc' => 'Legger til [http://google.com/adsense Google AdSense] til sidepanelet',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
@@ -347,13 +361,6 @@ $messages['nl'] = array(
  */
 $messages['nn'] = array(
 	'googleadsense-desc' => 'Legg til [http://google.com/adsense Google AdSense] til sidemenyen',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
-$messages['nb'] = array(
-	'googleadsense-desc' => 'Legger til [http://google.com/adsense Google AdSense] til sidepanelet',
 );
 
 /** Occitan (Occitan)

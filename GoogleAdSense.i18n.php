@@ -358,6 +358,7 @@ $messages['nl'] = array(
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Harald Khan
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'googleadsense-desc' => 'Legg til [http://google.com/adsense Google AdSense] til sidemenyen',

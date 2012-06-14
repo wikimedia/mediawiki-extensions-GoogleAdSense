@@ -60,7 +60,7 @@ $messages['arz'] = array(
 	'googleadsense-desc' => 'يضيف [http://www.google.com/adsense جوجل أدسنس] إلى الشريط الجانبي',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -81,42 +81,42 @@ $messages['be-tarask'] = array(
 	'googleadsense-desc' => 'Дадае [http://www.google.com/adsense Google AdSense] ў навігацыйную панэль',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
 	'googleadsense-desc' => 'Добавя [http://www.google.com/adsense Google AdSense] в страничната лента',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
 	'googleadsense-desc' => "Ouzhpennañ a ra [http://www.google.com/adsense Google AdSense] d'ar varrenn gostez",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
 	'googleadsense-desc' => 'Dodaje [http://www.google.com/adsense Google AdSense] u alatnu traku',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Solde
  */
 $messages['ca'] = array(
 	'googleadsense-desc' => 'Afegeix [http://www.google.com/Google AdSense] a la barra lateral',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Li-sung
  */
 $messages['cs'] = array(
 	'googleadsense-desc' => 'Přidává do postranního panelu [http://www.google.com/adsense Google AdSense]',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Byrial
  */
 $messages['da'] = array(
@@ -166,28 +166,28 @@ $messages['eo'] = array(
 	'googleadsense-desc' => 'Aldonas reklamilon [http://www.google.com/adsense Google AdSense] al la flanka kolumno',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Sanbec
  */
 $messages['es'] = array(
 	'googleadsense-desc' => 'Añade [http://www.google.com/adsense Google AdSense] a la barra lateral',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Theklan
  */
 $messages['eu'] = array(
 	'googleadsense-desc' => '[http://www.google.com/adsense Google AdSense] gehitzen du albo-barrara',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Str4nd
  */
 $messages['fi'] = array(
 	'googleadsense-desc' => 'Lisää [http://www.google.com/adsense Google AdSensen] sivupalkkiin',
 );
 
-/** French (Français)
+/** French (français)
  * @author Grondin
  */
 $messages['fr'] = array(
@@ -223,7 +223,7 @@ $messages['hil'] = array(
 	'googleadsense-desc' => 'Nagadugang [http://www.google.com/adsense Google AdSense] diri sa may sidebar',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Ex13
  */
 $messages['hr'] = array(
@@ -237,14 +237,14 @@ $messages['hsb'] = array(
 	'googleadsense-desc' => '[http://www.google.com/adsense Google AdSense] k pobóčnej lajsće přidać',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  */
 $messages['hu'] = array(
 	'googleadsense-desc' => '[http://www.google.com/adsense Google AdSense] hozzáfűzése a bal oldali menühöz',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -265,7 +265,7 @@ $messages['ig'] = array(
 	'googleadsense-desc' => 'Ne tí [http://www.google.com/adsense ÚchèAd Google] na igbe nor ákụkụ',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Darth Kule
  */
 $messages['it'] = array(
@@ -307,21 +307,21 @@ $messages['lb'] = array(
 	'googleadsense-desc' => 'Setzt [http://www.google.com/adsense Google AdSense] an déi säitlech Navigatiounslëscht derbäi',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Garas
  */
 $messages['lt'] = array(
 	'googleadsense-desc' => 'Prideda [http://www.google.com/adsense Google AdSense] į šoninę juostą',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author Xil
  */
 $messages['lv'] = array(
 	'googleadsense-desc' => ' Pievieno [http://www.google.com/adsense Google AdSense] sānu joslai',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -356,7 +356,7 @@ $messages['nl'] = array(
 	'googleadsense-desc' => 'Voegt [http://www.google.com/adsense?hl=nl Google AdSense] toe aan de sidebar',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -364,7 +364,7 @@ $messages['nn'] = array(
 	'googleadsense-desc' => 'Legg til [http://google.com/adsense Google AdSense] til sidemenyen',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -378,7 +378,7 @@ $messages['os'] = array(
 	'googleadsense-desc' => '[http://www.google.com/adsense Рекламæ Google AdSense] навигацион панельмæ бафтауы',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Derbeth
  */
 $messages['pl'] = array(
@@ -399,35 +399,35 @@ $messages['ps'] = array(
 	'googleadsense-desc' => 'څنګپټې کې [http://www.google.com/adsense ګووګل اډسېنس] ورګډوي',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Waldir
  */
 $messages['pt'] = array(
 	'googleadsense-desc' => 'Adiciona o [http://www.google.com/adsense Google AdSense] à barra lateral',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
 	'googleadsense-desc' => 'Adiciona o [http://www.google.com/adsense Google AdSense] à barra lateral',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author KlaudiuMihaila
  */
 $messages['ro'] = array(
 	'googleadsense-desc' => 'Adaugă [http://www.google.com/adsense Google AdSense] la bara laterală',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'googleadsense-desc' => "Aggiunge [http://www.google.com/adsense Google AdSense] jndr'à barra laterele",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Kaganer
  * @author Александр Сигачёв
  */
@@ -450,35 +450,35 @@ $messages['si'] = array(
 	'googleadsense-desc' => '[http://www.google.com/adsense ගූගල් දැන්වීම්වේදිකාව] පැති කොටුවට එක් කරයි',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
 	'googleadsense-desc' => 'Pridá do postranného panela [http://www.google.com/adsense Google AdSense]',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
 	'googleadsense-desc' => 'Doda [http://www.google.com/adsense Google AdSense] v stransko vrstico',
 );
 
-/** Albanian (Shqip)
+/** Albanian (shqip)
  * @author Puntori
  */
 $messages['sq'] = array(
 	'googleadsense-desc' => 'Vendosë [http://www.google.com/adsense Google AdSense] në kolonat anësore',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'googleadsense-desc' => 'Додаје [http://www.google.com/adsense Гуглов AdSense] сајдбару Вашег пројекта',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -499,7 +499,7 @@ $messages['su'] = array(
 	'googleadsense-desc' => 'Nambahkeun [http://www.google.com/adsense Google AdSense] kana bar gigir',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author M.M.S.
  */
 $messages['sv'] = array(
@@ -541,14 +541,14 @@ $messages['tr'] = array(
 	'googleadsense-desc' => "Kenar çubuğuna [http://www.google.com/adsense Google AdSense]'ı ekler",
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Prima klasy4na
  */
 $messages['uk'] = array(
 	'googleadsense-desc' => 'Додає [http://www.google.com/adsense Google AdSense] на бічну панель',
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  */
 $messages['vec'] = array(
@@ -562,14 +562,14 @@ $messages['vi'] = array(
 	'googleadsense-desc' => 'Thêm [http://www.google.com/adsense Google AdSense] vào thanh bên',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Gzdavidwong
  */
 $messages['zh-hans'] = array(
 	'googleadsense-desc' => '在页侧栏位加入[http://www.google.com/adsense Google AdSense]',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Mark85296341
  * @author Wrightbus
  */

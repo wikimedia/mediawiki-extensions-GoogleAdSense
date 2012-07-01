@@ -74,7 +74,7 @@ $messages['bar'] = array(
 	'googleadsense-desc' => 'Fügt [http://www.google.com/adsense Google AdSense] zu da Sidebar dazua',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Jim-by
  */
 $messages['be-tarask'] = array(
@@ -138,7 +138,7 @@ $messages['diq'] = array(
 	'googleadsense-desc' => 'çuwade kosmi re [http://www.google.com/adsense Google AdSense] dekeno de',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -194,7 +194,7 @@ $messages['fr'] = array(
 	'googleadsense-desc' => 'Ajoute [http://www.google.com/adsense Google AdSense] à la barre latérale',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -230,7 +230,7 @@ $messages['hr'] = array(
 	'googleadsense-desc' => 'Dodaje [http://www.google.com/adsense Google AdSense] u izbornik',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
@@ -435,7 +435,7 @@ $messages['ru'] = array(
 	'googleadsense-desc' => 'Добавляет [http://www.google.com/adsense рекламу Google AdSense] в навигационную панель',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(

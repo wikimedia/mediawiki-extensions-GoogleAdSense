@@ -15,52 +15,49 @@
  * @license MIT
  */
 
-/**
- * Exit if called outside of MediaWiki
- */
-if( !defined( 'MEDIAWIKI' ) ) {
+if ( !defined( 'MEDIAWIKI' ) ) {
 	echo( "This file is an extension to the MediaWiki software and cannot be used standalone.\n" );
 	die( 1 );
 }
 
 /**
- * SETTINGS
- * --------
- * The description of the portlet can be changed in [[MediaWiki:Googleadsense]].
- *
- * The following variables may need to be reset in your LocalSettings.php.
- * Compare them to the script output in the Google AdSense interface.
- */
-$wgGoogleAdSenseWidth  = 120;    // Width of the AdSense box, specified in your AdSense account
-$wgGoogleAdSenseHeight = 240;    // Width of the AdSense box, specified in your AdSense account
-$wgGoogleAdSenseSrc    = "http://pagead2.googlesyndication.com/pagead/show_ads.js"; // Source URL of the AdSense script
-$wgGoogleAdSenseAnonOnly = false; // Show the AdSense box only for anonymous users
-//$wgGoogleAdSenseCssLocation = $wgScriptPath . '/extensions/GoogleAdSense'; // Path to GoogleAdSense.css if non-default
-
-/**
- * The following variables must be set in your LocalSettings.php.
- * The extension will not work without it.
+ * The following settings must be made in your LocalSettings.php.
  */
 $wgGoogleAdSenseClient = 'none'; // Client ID for your AdSense script (example: pub-1234546403419693)
 $wgGoogleAdSenseSlot   = 'none'; // Slot ID for your AdSense script (example: 1234580893)
 $wgGoogleAdSenseID     = 'none'; // ID for your AdSense script (example: translatewiki)
 
+/**
+ * SETTINGS
+ * - The description of the portlet can be changed in [[MediaWiki:Googleadsense]].
+ * - The following settings can be overridden in your LocalSettings.php.
+ *   Compare them to the script output in the Google AdSense interface.
+ */
+$wgGoogleAdSenseWidth  = 120; // Width of the AdSense box, specified in your AdSense account
+$wgGoogleAdSenseHeight = 240; // Width of the AdSense box, specified in your AdSense account
+$wgGoogleAdSenseSrc    = "//pagead2.googlesyndication.com/pagead/show_ads.js"; // Protocol relative source URL of the AdSense script
+$wgGoogleAdSenseAnonOnly = false; // Show the AdSense box only for anonymous users
+
 $wgExtensionCredits['other'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'Google AdSense',
-	'version'        => '1.1',
+	'version'        => '2.0',
 	'author'         => 'Siebrand Mazeland',
 	'descriptionmsg' => 'googleadsense-desc',
 	'url'            => 'https://www.mediawiki.org/wiki/Extension:Google_AdSense_2',
 );
 
 // Register class and localisations
-$dir = dirname(__FILE__) . '/';
+$dir = dirname( __FILE__ ) . '/';
 $wgAutoloadClasses['GoogleAdSense'] = $dir . 'GoogleAdSense.class.php';
 $wgExtensionMessagesFiles['GoogleAdSense'] = $dir . 'GoogleAdSense.i18n.php';
 
 // Hook to modify the sidebar
 $wgHooks['SkinBuildSidebar'][] = 'GoogleAdSense::GoogleAdSenseInSidebar';
 
-// Hook to inject CSS - currently disabled, because it does not add the CSS somehow
-//$wgHooks['OutputPageBeforeHTML'][] = 'GoogleAdSense::injectCSS';
+// Client-side resource modules
+$wgResourceModules['ext.googleadsense'] = array(
+	'styles' => 'resources/ext.googleadsense.css',
+	'localBasePath' => $dir,
+	'remoteExtPath' => 'GoogleAdSense'
+);

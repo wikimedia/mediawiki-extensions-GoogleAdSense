@@ -342,9 +342,7 @@ $messages['ms'] = array(
 	'googleadsense-desc' => "Leletakkan [http://www.google.com/adsense Google AdSense] dalam ''sidebar''",
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $messages['nb'] = array(
 	'googleadsense-desc' => 'Legger til [http://google.com/adsense Google AdSense] til sidepanelet',
 );

@@ -180,6 +180,13 @@ $messages['eu'] = array(
 	'googleadsense-desc' => '[http://www.google.com/adsense Google AdSense] gehitzen du albo-barrara',
 );
 
+/** Persian (فارسی)
+ * @author ZxxZxxZ
+ */
+$messages['fa'] = array(
+	'googleadsense-desc' => '[http://www.google.com/adsense گوگل ادسنس] را به نوار جانبی می‌افزاید',
+);
+
 /** Finnish (suomi)
  * @author Str4nd
  */

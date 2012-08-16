@@ -281,9 +281,10 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Hosiryuhosi
+ * @author Shirayuki
  */
 $messages['ja'] = array(
-	'googleadsense-desc' => '[http://www.google.com/adsense Google AdSense]をサイドバーに追加する',
+	'googleadsense-desc' => '[http://www.google.com/adsense Google AdSense] をサイドバーに追加する',
 );
 
 /** Khmer (ភាសាខ្មែរ)

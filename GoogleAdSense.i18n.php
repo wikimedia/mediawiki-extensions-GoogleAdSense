@@ -74,7 +74,7 @@ $messages['bar'] = array(
 	'googleadsense-desc' => 'Fügt [http://www.google.com/adsense Google AdSense] zu da Sidebar dazua',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Jim-by
  */
 $messages['be-tarask'] = array(
@@ -351,7 +351,7 @@ $messages['ms'] = array(
 	'googleadsense-desc' => "Leletakkan [http://www.google.com/adsense Google AdSense] dalam ''sidebar''",
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $messages['nb'] = array(
 	'googleadsense-desc' => 'Legger til [http://google.com/adsense Google AdSense] til sidepanelet',
 );
@@ -363,7 +363,7 @@ $messages['nl'] = array(
 	'googleadsense-desc' => 'Voegt [http://www.google.com/adsense?hl=nl Google AdSense] toe aan de sidebar',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -478,14 +478,14 @@ $messages['sq'] = array(
 	'googleadsense-desc' => 'Vendosë [http://www.google.com/adsense Google AdSense] në kolonat anësore',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'googleadsense-desc' => 'Додаје [http://www.google.com/adsense Гуглов AdSense] сајдбару Вашег пројекта',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -569,14 +569,14 @@ $messages['vi'] = array(
 	'googleadsense-desc' => 'Thêm [http://www.google.com/adsense Google AdSense] vào thanh bên',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Gzdavidwong
  */
 $messages['zh-hans'] = array(
 	'googleadsense-desc' => '在页侧栏位加入[http://www.google.com/adsense Google AdSense]',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  * @author Wrightbus
  */

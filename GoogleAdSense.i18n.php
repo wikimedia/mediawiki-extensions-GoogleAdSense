@@ -20,8 +20,10 @@ $messages['en'] = array(
 /** Message documentation (Message documentation)
  * @author Purodha
  * @author The Evil IP address
+ * @author Umherirrender
  */
 $messages['qqq'] = array(
+	'googleadsense' => '{{notranslate}}',
 	'googleadsense-desc' => '{{desc}}',
 );
 
@@ -306,6 +308,7 @@ $messages['ko'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
+	'googleadsense' => 'Google AdSense',
 	'googleadsense-desc' => 'Deit <i lang="en">[http://www.google.com/adsense Google AdSense]</i> Aanzeije en de <i lang="en">sidebar</i> erin.',
 );
 
@@ -334,6 +337,7 @@ $messages['lv'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
+	'googleadsense' => 'Реклама од Google',
 	'googleadsense-desc' => 'Го додава [http://www.google.com/adsense Google AdSense] во страничната лента',
 );
 
@@ -341,6 +345,7 @@ $messages['mk'] = array(
  * @author Praveenp
  */
 $messages['ml'] = array(
+	'googleadsense' => 'ഗൂഗിൾ ആഡ്സെൻസ്',
 	'googleadsense-desc' => 'സൈഡ്ബാറിൽ [http://www.google.com/adsense ഗൂഗിൾ ആഡ്സെൻസ്] ചേർക്കുന്നു',
 );
 
@@ -351,7 +356,8 @@ $messages['ms'] = array(
 	'googleadsense-desc' => "Leletakkan [http://www.google.com/adsense Google AdSense] dalam ''sidebar''",
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎) */
+/** Norwegian Bokmål (norsk (bokmål)‎)
+ */
 $messages['nb'] = array(
 	'googleadsense-desc' => 'Legger til [http://google.com/adsense Google AdSense] til sidepanelet',
 );
@@ -439,6 +445,7 @@ $messages['roa-tara'] = array(
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
+	'googleadsense' => 'Реклама от Google',
 	'googleadsense-desc' => 'Добавляет [http://www.google.com/adsense рекламу Google AdSense] в навигационную панель',
 );
 
@@ -454,6 +461,7 @@ $messages['rue'] = array(
  * @author නන්දිමිතුරු
  */
 $messages['si'] = array(
+	'googleadsense' => 'ගූගල් ප්‍රචාරකවේදිකාව',
 	'googleadsense-desc' => '[http://www.google.com/adsense ගූගල් දැන්වීම්වේදිකාව] පැති කොටුවට එක් කරයි',
 );
 
@@ -548,6 +556,13 @@ $messages['tr'] = array(
 	'googleadsense-desc' => "Kenar çubuğuna [http://www.google.com/adsense Google AdSense]'ı ekler",
 );
 
+/** Tatar (Cyrillic script) (татарча)
+ * @author Ильнар
+ */
+$messages['tt-cyrl'] = array(
+	'googleadsense' => "Google'дан реклама",
+);
+
 /** Ukrainian (українська)
  * @author Prima klasy4na
  */
@@ -583,4 +598,3 @@ $messages['zh-hans'] = array(
 $messages['zh-hant'] = array(
 	'googleadsense-desc' => '在頁側欄位加入 [http://www.google.com/adsense Google AdSense]',
 );
-

@@ -308,7 +308,6 @@ $messages['ko'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
-	'googleadsense' => 'Google AdSense',
 	'googleadsense-desc' => 'Deit <i lang="en">[http://www.google.com/adsense Google AdSense]</i> Aanzeije en de <i lang="en">sidebar</i> erin.',
 );
 
@@ -337,7 +336,6 @@ $messages['lv'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
-	'googleadsense' => 'Реклама од Google',
 	'googleadsense-desc' => 'Го додава [http://www.google.com/adsense Google AdSense] во страничната лента',
 );
 
@@ -345,7 +343,6 @@ $messages['mk'] = array(
  * @author Praveenp
  */
 $messages['ml'] = array(
-	'googleadsense' => 'ഗൂഗിൾ ആഡ്സെൻസ്',
 	'googleadsense-desc' => 'സൈഡ്ബാറിൽ [http://www.google.com/adsense ഗൂഗിൾ ആഡ്സെൻസ്] ചേർക്കുന്നു',
 );
 
@@ -445,7 +442,6 @@ $messages['roa-tara'] = array(
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
-	'googleadsense' => 'Реклама от Google',
 	'googleadsense-desc' => 'Добавляет [http://www.google.com/adsense рекламу Google AdSense] в навигационную панель',
 );
 
@@ -461,7 +457,6 @@ $messages['rue'] = array(
  * @author නන්දිමිතුරු
  */
 $messages['si'] = array(
-	'googleadsense' => 'ගූගල් ප්‍රචාරකවේදිකාව',
 	'googleadsense-desc' => '[http://www.google.com/adsense ගූගල් දැන්වීම්වේදිකාව] පැති කොටුවට එක් කරයි',
 );
 

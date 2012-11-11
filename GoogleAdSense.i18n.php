@@ -19,12 +19,13 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Purodha
+ * @author Shirayuki
  * @author The Evil IP address
  * @author Umherirrender
  */
 $messages['qqq'] = array(
 	'googleadsense' => '{{notranslate}}',
-	'googleadsense-desc' => '{{desc}}',
+	'googleadsense-desc' => '{{desc|name=Google AdSense|url=http://www.mediawiki.org/wiki/Extension:GoogleAdSense}}',
 );
 
 /** Afrikaans (Afrikaans)

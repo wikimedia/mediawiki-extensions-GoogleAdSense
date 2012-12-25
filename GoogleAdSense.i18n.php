@@ -354,6 +354,13 @@ $messages['ms'] = array(
 	'googleadsense-desc' => "Leletakkan [http://www.google.com/adsense Google AdSense] dalam ''sidebar''",
 );
 
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'googleadsense-desc' => 'Iżżid [http://www.google.com/adsense Google AdSense] fil-ġenb',
+);
+
 /** Norwegian Bokmål (norsk (bokmål)‎)
  */
 $messages['nb'] = array(

@@ -302,7 +302,7 @@ $messages['km'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'googleadsense-desc' => '[http://www.google.com/adsense 구글 애드센스]를 사이드바에 추가',
+	'googleadsense-desc' => '[http://www.google.com/adsense Google 애드센스]를 사이드바에 추가합니다',
 );
 
 /** Colognian (Ripoarisch)

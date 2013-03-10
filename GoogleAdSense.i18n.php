@@ -70,6 +70,13 @@ $messages['ast'] = array(
 	'googleadsense-desc' => 'Amiesta [http://www.google.com/adsense Google AdSense] a la barra llateral',
 );
 
+/** Azerbaijani (azərbaycanca)
+ * @author Khan27
+ */
+$messages['az'] = array(
+	'googleadsense-desc' => 'Yan çubuğa [http://www.google.com/adsense Google AdSense] əlavə edir',
+);
+
 /** Bavarian (Boarisch)
  * @author Man77
  */

@@ -421,7 +421,7 @@ $messages['pms'] = array(
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
 $messages['ps'] = array(
-	'googleadsense-desc' => 'څنګپټې کې [http://www.google.com/adsense ګووګل اډسېنس] ورګډوي',
+	'googleadsense-desc' => 'څنگپټې کې [http://www.google.com/adsense گووگل اډسېنس] ورگډوي',
 );
 
 /** Portuguese (português)

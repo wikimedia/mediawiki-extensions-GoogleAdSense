@@ -119,7 +119,7 @@ $messages['ca'] = array(
 	'googleadsense-desc' => 'Afegeix [http://www.google.com/Google AdSense] a la barra lateral',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Li-sung
  */
 $messages['cs'] = array(

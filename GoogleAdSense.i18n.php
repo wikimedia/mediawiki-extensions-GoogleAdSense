@@ -324,7 +324,7 @@ $messages['ksh'] = array(
  * @author Soued031
  */
 $messages['lb'] = array(
-	'googleadsense-desc' => 'Setzt [http://www.google.com/adsense Google AdSense] an déi säitlech Navigatiounslëscht dobäi',
+	'googleadsense-desc' => 'Setzt [http://www.google.com/adsense Google AdSense] an déi säitlech Navigatiounslëscht derbäi',
 );
 
 /** Lithuanian (lietuvių)

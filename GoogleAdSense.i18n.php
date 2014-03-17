@@ -468,6 +468,13 @@ $messages['rue'] = array(
 	'googleadsense-desc' => 'Придасть [http://www.google.com/adsense Google AdSense] на бочный панел',
 );
 
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'googleadsense-desc' => 'Adds [http://www.google.com/adsense Google AdSense] til the sidebaur',
+);
+
 /** Sinhala (සිංහල)
  * @author Singhalawap
  * @author නන්දිමිතුරු

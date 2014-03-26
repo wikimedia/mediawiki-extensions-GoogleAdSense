@@ -472,7 +472,7 @@ $messages['rue'] = array(
  * @author John Reid
  */
 $messages['sco'] = array(
-	'googleadsense-desc' => 'Adds [http://www.google.com/adsense Google AdSense] til the sidebaur',
+	'googleadsense-desc' => 'Eiks [http://www.google.com/adsense Google AdSense] til the sidebaur',
 );
 
 /** Sinhala (සිංහල)

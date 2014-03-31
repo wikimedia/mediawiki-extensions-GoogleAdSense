@@ -41,7 +41,7 @@ $wgGoogleAdSenseAnonOnly = false; // Show the AdSense box only for anonymous use
 $wgExtensionCredits['other'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'Google AdSense',
-	'version'        => '2.1',
+	'version'        => '2.2.0',
 	'author'         => 'Siebrand Mazeland',
 	'descriptionmsg' => 'googleadsense-desc',
 	'url'            => 'https://www.mediawiki.org/wiki/Extension:Google_AdSense_2',
@@ -50,6 +50,7 @@ $wgExtensionCredits['other'][] = array(
 // Register class and localisations
 $dir = dirname( __FILE__ ) . '/';
 $wgAutoloadClasses['GoogleAdSense'] = $dir . 'GoogleAdSense.class.php';
+$wgMessagesDirs['GoogleAdSense'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['GoogleAdSense'] = $dir . 'GoogleAdSense.i18n.php';
 
 // Hook to modify the sidebar

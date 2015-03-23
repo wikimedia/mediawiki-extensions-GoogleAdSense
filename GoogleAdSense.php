@@ -48,10 +48,8 @@ $wgExtensionCredits['other'][] = array(
 );
 
 // Register class and localisations
-$dir = dirname( __FILE__ ) . '/';
-$wgAutoloadClasses['GoogleAdSense'] = $dir . 'GoogleAdSense.class.php';
+$wgAutoloadClasses['GoogleAdSense'] = __DIR__ . '/GoogleAdSense.class.php';
 $wgMessagesDirs['GoogleAdSense'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['GoogleAdSense'] = $dir . 'GoogleAdSense.i18n.php';
 
 // Hook to modify the sidebar
 $wgHooks['SkinBuildSidebar'][] = 'GoogleAdSense::GoogleAdSenseInSidebar';
@@ -59,6 +57,6 @@ $wgHooks['SkinBuildSidebar'][] = 'GoogleAdSense::GoogleAdSenseInSidebar';
 // Client-side resource modules
 $wgResourceModules['ext.googleadsense'] = array(
 	'styles' => 'resources/ext.googleadsense.css',
-	'localBasePath' => $dir,
+	'localBasePath' => __DIR__,
 	'remoteExtPath' => 'GoogleAdSense'
 );

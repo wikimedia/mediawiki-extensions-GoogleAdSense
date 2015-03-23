@@ -41,10 +41,12 @@ $wgGoogleAdSenseAnonOnly = false; // Show the AdSense box only for anonymous use
 $wgExtensionCredits['other'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'Google AdSense',
+	'namemsg'       => 'googleadsense-name',
 	'version'        => '2.2.0',
 	'author'         => 'Siebrand Mazeland',
 	'descriptionmsg' => 'googleadsense-desc',
-	'url'            => 'https://www.mediawiki.org/wiki/Extension:Google_AdSense_2',
+	'url'            => 'https://www.mediawiki.org/wiki/Extension:Google_AdSense',
+	'license-name'   => 'MIT',
 );
 
 // Register class and localisations

@@ -1,9 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand Mazeland"
-        ]
-    },
-    "googleadsense": "Google AdSense",
-    "googleadsense-desc": "Adds [http://www.google.com/adsense Google AdSense] to the sidebar"
+	"@metadata": {
+		"authors": [
+			"Siebrand Mazeland"
+		]
+	},
+	"googleadsense": "Google AdSense",
+	"googleadsense-name": "Google AdSense",
+	"googleadsense-desc": "Adds [http://www.google.com/adsense Google AdSense] to the sidebar"
 }

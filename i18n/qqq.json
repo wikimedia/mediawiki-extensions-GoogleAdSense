@@ -8,5 +8,5 @@
 		]
 	},
 	"googleadsense": "{{notranslate}}",
-	"googleadsense-desc": "{{desc|name=Google AdSense|url=http://www.mediawiki.org/wiki/Extension:GoogleAdSense}}"
+	"googleadsense-desc": "{{desc|name=Google AdSense|url=https://www.mediawiki.org/wiki/Extension:GoogleAdSense}}"
 }

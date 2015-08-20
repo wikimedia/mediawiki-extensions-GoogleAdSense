@@ -23,7 +23,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 /**
  * The following settings must be made in your LocalSettings.php.
  */
-$wgGoogleAdSenseClient = 'none'; // Client ID for your AdSense script (example: pub-1234546403419693)
+$wgGoogleAdSenseClient = 'none'; // Client ID for your AdSense script (example: ca-pub-1234546403419693)
 $wgGoogleAdSenseSlot   = 'none'; // Slot ID for your AdSense script (example: 1234580893)
 $wgGoogleAdSenseID     = 'none'; // ID for your AdSense script (example: translatewiki)
 

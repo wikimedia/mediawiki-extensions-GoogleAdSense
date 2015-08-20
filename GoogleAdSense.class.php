@@ -31,7 +31,7 @@ class GoogleAdSense {
 		// Add CSS
 		$skin->getOutput()->addModules( 'ext.googleadsense' );
 
-		$bar['googleadsense'] = "<script type=\"text/javascript\"><!--
+		$bar['googleadsense-portletlabel'] = "<script type=\"text/javascript\"><!--
 google_ad_client = \"$wgGoogleAdSenseClient\";
 /* $wgGoogleAdSenseID */
 google_ad_slot = \"$wgGoogleAdSenseSlot\";

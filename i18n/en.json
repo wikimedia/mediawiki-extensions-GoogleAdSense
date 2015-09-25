@@ -5,6 +5,6 @@
 		]
 	},
 	"googleadsense": "Google AdSense",
-	"googleadsense-name": "Google AdSense",
+	"googleadsense-extensionname": "Google AdSense",
 	"googleadsense-desc": "Adds [http://www.google.com/adsense Google AdSense] to the sidebar"
 }

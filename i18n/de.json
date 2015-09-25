@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Kghbln",
-			"MichaelFrey"
+			"MichaelFrey",
+			"Metalhead64"
 		]
 	},
+	"googleadsense-extensionname": "Google AdSense",
 	"googleadsense-desc": "Ermöglicht das Einfügen von [http://www.google.com/adsense „Google AdSense“-Anzeigen] in der Seitenleiste"
 }

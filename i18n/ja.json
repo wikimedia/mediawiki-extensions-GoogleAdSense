@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Hosiryuhosi",
-			"Shirayuki"
+			"Shirayuki",
+			"Sujiniku"
 		]
 	},
-	"googleadsense-desc": "[http://www.google.com/adsense Google AdSense] をサイドバーに追加する"
+	"googleadsense-desc": "[http://www.google.com/adsense Google AdSense] をサイドバーに追加する",
+	"googleadsense-portletlabel": "広告"
 }

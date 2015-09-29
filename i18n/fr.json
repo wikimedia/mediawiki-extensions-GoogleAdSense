@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grondin"
+			"Grondin",
+			"Gomoko"
 		]
 	},
-	"googleadsense-desc": "Ajoute [http://www.google.com/adsense Google AdSense] à la barre latérale"
+	"googleadsense-desc": "Ajoute [http://www.google.com/adsense Google AdSense] à la barre latérale",
+	"googleadsense-portletlabel": "Annonces"
 }

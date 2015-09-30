@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jim-by"
+			"Jim-by",
+			"Red Winged Duck"
 		]
 	},
-	"googleadsense-desc": "Дадае [http://www.google.com/adsense Google AdSense] ў навігацыйную панэль"
+	"googleadsense-desc": "Дадае [http://www.google.com/adsense Google AdSense] ў навігацыйную панэль",
+	"googleadsense-portletlabel": "Рэкляма"
 }

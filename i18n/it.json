@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Darth Kule"
+			"Darth Kule",
+			"Beta16"
 		]
 	},
-	"googleadsense-desc": "Aggiunge [http://www.google.com/adsense Google AdSense] alla sidebar"
+	"googleadsense-desc": "Aggiunge [http://www.google.com/adsense Google AdSense] alla sidebar",
+	"googleadsense-portletlabel": "Pubblicità"
 }

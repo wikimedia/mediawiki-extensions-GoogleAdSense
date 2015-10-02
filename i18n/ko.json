@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"ToePeu",
-			"아라"
+			"아라",
+			"Hwangjy9"
 		]
 	},
-	"googleadsense-desc": "[http://www.google.com/adsense Google 애드센스]를 사이드바에 추가합니다"
+	"googleadsense-desc": "[http://www.google.com/adsense Google 애드센스]를 사이드바에 추가합니다",
+	"googleadsense-portletlabel": "광고"
 }

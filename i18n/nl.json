@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand"
+			"Siebrand",
+			"Sjoerddebruin"
 		]
 	},
-	"googleadsense-desc": "Voegt [http://www.google.com/adsense?hl=nl Google AdSense] toe aan de sidebar"
+	"googleadsense-desc": "Voegt [http://www.google.com/adsense?hl=nl Google AdSense] toe aan de sidebar",
+	"googleadsense-portletlabel": "Advertenties"
 }

@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Solde"
+			"Solde",
+			"Macofe"
 		]
 	},
-	"googleadsense-desc": "Afegeix [http://www.google.com/Google AdSense] a la barra lateral"
+	"googleadsense-desc": "Afegeix [http://www.google.com/Google AdSense] a la barra lateral",
+	"googleadsense-portletlabel": "Publicitat"
 }

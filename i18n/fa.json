@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"ZxxZxxZ"
+			"ZxxZxxZ",
+			"Reza1615"
 		]
 	},
-	"googleadsense-desc": "[http://www.google.com/adsense گوگل ادسنس] را به نوار جانبی می‌افزاید"
+	"googleadsense-desc": "[http://www.google.com/adsense گوگل ادسنس] را به نوار جانبی می‌افزاید",
+	"googleadsense-portletlabel": "تبلیغات"
 }

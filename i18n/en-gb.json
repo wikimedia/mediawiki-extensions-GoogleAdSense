@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chase me ladies, I'm the Cavalry"
+			"Chase me ladies, I'm the Cavalry",
+			"Andibing"
 		]
 	},
-	"googleadsense-desc": "Adds [http://www.google.com/adsense Google AdSense] to the sidebar"
+	"googleadsense-desc": "Adds [http://www.google.com/adsense Google AdSense] to the sidebar",
+	"googleadsense-portletlabel": "Advertisements"
 }

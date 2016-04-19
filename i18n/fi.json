@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Str4nd"
+			"Str4nd",
+			"01miki10"
 		]
 	},
-	"googleadsense-desc": "Lisää [http://www.google.com/adsense Google AdSensen] sivupalkkiin"
+	"googleadsense-desc": "Lisää [http://www.google.com/adsense Google AdSensen] sivupalkkiin",
+	"googleadsense-portletlabel": "Mainokset"
 }

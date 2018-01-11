@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Omnipaedista"
+			"Omnipaedista",
+			"Nikosgranturismogt"
 		]
 	},
-	"googleadsense-desc": "Προσθέτει το [http://www.google.com/adsense Google AdSense] στην μπάρα εργασίας"
+	"googleadsense-desc": "Προσθέτει το [http://www.google.com/adsense Google AdSense] στην μπάρα εργασίας",
+	"googleadsense-portletlabel": "Διαφημίσεις"
 }

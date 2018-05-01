@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Meno25"
+			"Meno25",
+			"ديفيد"
 		]
 	},
-	"googleadsense-desc": "يضيف [http://www.google.com/adsense جوجل أدسنس] إلى الشريط الجانبي"
+	"googleadsense-desc": "يضيف [http://www.google.com/adsense جوجل أدسنس] إلى الشريط الجانبي",
+	"googleadsense-portletlabel": "الإعلانات"
 }

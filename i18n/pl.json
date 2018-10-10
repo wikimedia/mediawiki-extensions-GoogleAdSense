@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Derbeth"
+			"Derbeth",
+			"Railfail536"
 		]
 	},
-	"googleadsense-desc": "Dodaje [http://www.google.com/adsense Google AdSense] do paska bocznego"
+	"googleadsense-desc": "Dodaje [http://www.google.com/adsense Google AdSense] do paska bocznego",
+	"googleadsense-portletlabel": "Reklamy"
 }

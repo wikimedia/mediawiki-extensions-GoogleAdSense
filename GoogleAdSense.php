@@ -2,7 +2,7 @@
 /**
  * MediaWiki extension to add Google AdSense in a portlet in the sidebar.
  * Installation instructions can be found on
- * http://www.mediawiki.org/wiki/Extension:Google_AdSense_2
+ * https://www.mediawiki.org/wiki/Extension:Google_AdSense_2
  *
  * This extension will not add the Google Adsense portlet to *any* skin
  * that is used with MediaWiki. Because of inconsistencies in the skin

@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yekrats"
+			"Yekrats",
+			"Mirin"
 		]
 	},
-	"googleadsense-desc": "Aldonas reklamilon [http://www.google.com/adsense Google AdSense] al la flanka kolumno"
+	"googleadsense-desc": "Aldonas reklamilon [http://www.google.com/adsense Google AdSense] al la flanka kolumno",
+	"googleadsense-portletlabel": "Reklamoj"
 }

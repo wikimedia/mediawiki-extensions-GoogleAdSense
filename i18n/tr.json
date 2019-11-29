@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joseph"
+			"Joseph",
+			"BaRaN6161 TURK"
 		]
 	},
-	"googleadsense-desc": "Kenar çubuğuna [http://www.google.com/adsense Google AdSense]'ı ekler"
+	"googleadsense-desc": "Kenar çubuğuna [http://www.google.com/adsense Google AdSense]'ı ekler",
+	"googleadsense-portletlabel": "Reklamlar"
 }

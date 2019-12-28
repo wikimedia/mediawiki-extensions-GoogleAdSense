@@ -12,6 +12,7 @@ class GoogleAdSense {
 	static function GoogleAdSenseInSidebar( $skin, &$bar ) {
 		global $wgGoogleAdSenseWidth, $wgGoogleAdSenseID,
 			$wgGoogleAdSenseHeight, $wgGoogleAdSenseClient,
+			$wgGoogleAdSenseLang, $wgGoogleAdSenseEncoding,
 			$wgGoogleAdSenseSlot, $wgGoogleAdSenseSrc,
 			$wgGoogleAdSenseAnonOnly;
 
@@ -37,6 +38,8 @@ google_ad_client = \"$wgGoogleAdSenseClient\";
 google_ad_slot = \"$wgGoogleAdSenseSlot\";
 google_ad_width = " . intval( $wgGoogleAdSenseWidth ) . ";
 google_ad_height = " . intval( $wgGoogleAdSenseHeight ) . ";
+google_language = \"$GoogleAdSenseLang\";
+google_encoding = \"$GoogleAdSenseEncoding\";
 // -->
 </script>
 <script type=\"text/javascript\"

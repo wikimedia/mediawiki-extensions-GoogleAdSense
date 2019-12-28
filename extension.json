@@ -5,7 +5,8 @@
 	"author": [
 		"Siebrand Mazeland",
 		"Zoranzoki21"
-	],	"url": "https://www.mediawiki.org/wiki/Extension:Google_AdSense",
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:Google_AdSense",
 	"descriptionmsg": "googleadsense-desc",
 	"license-name": "MIT",
 	"type": "other",

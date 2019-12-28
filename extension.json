@@ -48,6 +48,12 @@
 		"GoogleAdSenseHeight": {
 			"value": 240
 		},
+		"GoogleAdSenseLang": {
+			"value": "en"
+		},
+		"GoogleAdSenseEncoding": {
+			"value": "utf8"
+		},
 		"GoogleAdSenseSrc": {
 			"value": "//pagead2.googlesyndication.com/pagead/show_ads.js"
 		},

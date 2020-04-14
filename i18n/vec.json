@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Candalua"
+			"Candalua",
+			"Fierodelveneto"
 		]
 	},
-	"googleadsense-desc": "Zonta [http://www.google.com/adsense Google AdSense] a la barra laterale"
+	"googleadsense-desc": "Zonta [http://www.google.com/adsense Google AdSense] a la barra laterale",
+	"googleadsense-portletlabel": "Publiçità"
 }

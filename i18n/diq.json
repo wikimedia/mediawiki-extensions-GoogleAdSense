@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"1917 Ekim Devrimi",
 			"Erdemaslancan"
 		]
 	},
-	"googleadsense-desc": "çuwade kosmi re [http://www.google.com/adsense Google AdSense] dekeno de"
+	"googleadsense-desc": "çuwade kosmi re [http://www.google.com/adsense Google AdSense] dekeno de",
+	"googleadsense-portletlabel": "Reklami"
 }

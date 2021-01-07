@@ -38,8 +38,8 @@ google_ad_client = \"$wgGoogleAdSenseClient\";
 google_ad_slot = \"$wgGoogleAdSenseSlot\";
 google_ad_width = " . intval( $wgGoogleAdSenseWidth ) . ";
 google_ad_height = " . intval( $wgGoogleAdSenseHeight ) . ";
-google_language = \"$GoogleAdSenseLang\";
-google_encoding = \"$GoogleAdSenseEncoding\";
+google_language = \"$wgGoogleAdSenseLang\";
+google_encoding = \"$wgGoogleAdSenseEncoding\";
 // -->
 </script>
 <script type=\"text/javascript\"

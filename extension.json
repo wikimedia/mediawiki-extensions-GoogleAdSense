@@ -19,7 +19,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"GoogleAdSense": "GoogleAdSense.class.php"
+		"GoogleAdSense": "src/GoogleAdSense.php"
 	},
 	"ResourceModules": {
 		"ext.googleadsense": {

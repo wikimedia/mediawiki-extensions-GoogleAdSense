@@ -9,7 +9,12 @@
  */
 
 class GoogleAdSense {
-	static function GoogleAdSenseInSidebar( $skin, &$bar ) {
+	/**
+	 * @param Skin $skin
+	 * @param array &$bar
+	 * @return array|bool
+	 */
+	public static function GoogleAdSenseInSidebar( $skin, &$bar ) {
 		global $wgGoogleAdSenseWidth, $wgGoogleAdSenseID,
 			$wgGoogleAdSenseHeight, $wgGoogleAdSenseClient,
 			$wgGoogleAdSenseLang, $wgGoogleAdSenseEncoding,
@@ -18,8 +23,9 @@ class GoogleAdSense {
 
 		// Return $bar unchanged if not all values have been set.
 		// @todo Signal incorrect configuration nicely?
-		if ( $wgGoogleAdSenseClient == 'none' || $wgGoogleAdSenseSlot == 'none' || $wgGoogleAdSenseID == 'none' )
+		if ( $wgGoogleAdSenseClient == 'none' || $wgGoogleAdSenseSlot == 'none' || $wgGoogleAdSenseID == 'none' ) {
 			return $bar;
+		}
 
 		if ( $skin->getUser()->isLoggedIn() && $wgGoogleAdSenseAnonOnly ) {
 			return $bar;

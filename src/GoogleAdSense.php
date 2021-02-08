@@ -12,46 +12,48 @@ class GoogleAdSense {
 	/**
 	 * @param Skin $skin
 	 * @param array &$bar
-	 * @return array|bool
 	 */
-	public static function GoogleAdSenseInSidebar( $skin, &$bar ) {
-		global $wgGoogleAdSenseWidth, $wgGoogleAdSenseID,
-			$wgGoogleAdSenseHeight, $wgGoogleAdSenseClient,
-			$wgGoogleAdSenseLang, $wgGoogleAdSenseEncoding,
-			$wgGoogleAdSenseSlot, $wgGoogleAdSenseSrc,
-			$wgGoogleAdSenseAnonOnly;
+	public static function onSkinBuildSidebar( $skin, &$bar ) {
+		$config = $skin->getConfig();
+		$adWidth = $config->get( 'GoogleAdSenseWidth' );
+		$id = $config->get( 'GoogleAdSenseID' );
+		$adHeight = $config->get( 'GoogleAdSenseHeight' );
+		$adClient = $config->get( 'GoogleAdSenseClient' );
+		$language = $config->get( 'GoogleAdSenseLang' );
+		$encoding = $config->get( 'GoogleAdSenseEncoding' );
+		$adSlot = $config->get( 'GoogleAdSenseSlot' );
+		$src = $config->get( 'GoogleAdSenseSrc' );
+		$anonOnly = $config->get( 'GoogleAdSenseAnonOnly' );
 
 		// Return $bar unchanged if not all values have been set.
 		// @todo Signal incorrect configuration nicely?
-		if ( $wgGoogleAdSenseClient == 'none' || $wgGoogleAdSenseSlot == 'none' || $wgGoogleAdSenseID == 'none' ) {
-			return $bar;
+		if ( $adClient == 'none' || $adSlot == 'none' || $id == 'none' ) {
+			return;
 		}
 
-		if ( $skin->getUser()->isLoggedIn() && $wgGoogleAdSenseAnonOnly ) {
-			return $bar;
+		if ( !$skin->getUser()->isRegistered() && $anonOnly ) {
+			return;
 		}
 
-		if ( !$wgGoogleAdSenseSrc ) {
-			return $bar;
+		if ( !$src ) {
+			return;
 		}
 
 		// Add CSS
 		$skin->getOutput()->addModules( 'ext.googleadsense' );
 
 		$bar['googleadsense-portletlabel'] = "<script type=\"text/javascript\"><!--
-google_ad_client = \"$wgGoogleAdSenseClient\";
-/* $wgGoogleAdSenseID */
-google_ad_slot = \"$wgGoogleAdSenseSlot\";
-google_ad_width = " . intval( $wgGoogleAdSenseWidth ) . ";
-google_ad_height = " . intval( $wgGoogleAdSenseHeight ) . ";
-google_language = \"$GoogleAdSenseLang\";
-google_encoding = \"$GoogleAdSenseEncoding\";
+google_ad_client = \"$adClient\";
+/* $id */
+google_ad_slot = \"$adSlot\";
+google_ad_width = " . intval( $adWidth ) . ";
+google_ad_height = " . intval( $adHeight ) . ";
+google_language = \"$language\";
+google_encoding = \"$encoding\";
 // -->
 </script>
 <script type=\"text/javascript\"
-src=\"$wgGoogleAdSenseSrc\">
+src=\"$src\">
 </script>";
-
-		return true;
 	}
 }

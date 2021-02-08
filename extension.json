@@ -31,7 +31,7 @@
 		"remoteExtPath": "GoogleAdSense"
 	},
 	"Hooks": {
-		"SkinBuildSidebar": "GoogleAdSense::GoogleAdSenseInSidebar"
+		"SkinBuildSidebar": "GoogleAdSense::onSkinBuildSidebar"
 	},
 	"config": {
 		"GoogleAdSenseClient": {

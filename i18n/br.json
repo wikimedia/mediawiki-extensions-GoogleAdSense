@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Adriendelucca",
 			"Fulup"
 		]
 	},
-	"googleadsense-desc": "Ouzhpennañ a ra [http://www.google.com/adsense Google AdSense] d'ar varrenn gostez"
+	"googleadsense-desc": "Ouzhpennañ a ra [http://www.google.com/adsense Google AdSense] d'ar varrenn gostez",
+	"googleadsense-portletlabel": "Bruderezh"
 }

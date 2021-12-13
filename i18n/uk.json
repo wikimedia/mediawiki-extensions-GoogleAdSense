@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Prima klasy4na",
-			"Ата"
+			"Ата",
+			"DDPAT"
 		]
 	},
+	"googleadsense-extensionname": "Google AdSense",
 	"googleadsense-desc": "Додає [http://www.google.com/adsense Google AdSense] на бічну панель",
 	"googleadsense-portletlabel": "Оголошення"
 }

@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Rotemliss",
-			"YaronSh"
+			"YaronSh",
+			"Amire80"
 		]
 	},
-	"googleadsense-desc": "הוספת [http://www.google.com/adsense Google AdSense] לסרגל הצד"
+	"googleadsense-desc": "הוספת [http://www.google.com/adsense Google AdSense] לסרגל הצד",
+	"googleadsense-portletlabel": "פרסומות"
 }

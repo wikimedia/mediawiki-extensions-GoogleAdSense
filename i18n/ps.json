@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
-	"googleadsense-desc": "څنگپټې کې [http://www.google.com/adsense گووگل اډسېنس] ورگډوي"
+	"googleadsense-desc": "څنگپټې کې [http://www.google.com/adsense گووگل اډسېنس] ورگډوي",
+	"googleadsense-portletlabel": "تبليغات"
 }
